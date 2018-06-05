@@ -1,0 +1,14 @@
+{
+  "name": "chatangle-codec",
+  "version": "1.0.0",
+  "description": "An encryptor/decryptor for Chatangle payloads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chatangle"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT"
+}

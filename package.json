@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pRizz/chatangle-codec.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pRizz/chatangle-codec/issues"
+  },
+  "homepage": "https://github.com/pRizz/chatangle-codec#readme"
 }

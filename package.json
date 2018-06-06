@@ -10,5 +10,9 @@
     "Chatangle"
   ],
   "author": "Peter Ryszkiewicz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "openpgp": "^3.0.11"
+  },
+  "repository": "https://github.com/pRizz/chatangle-codec.git"
 }
